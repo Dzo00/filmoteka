@@ -1,0 +1,1599 @@
+[
+    {
+        "id":1,
+        "kategorijaID":1,
+        "zanr":["biografija","drama","istorijski"],
+        "nov":false,
+        "naziv":"12 years a slave",
+        "opis":"U Sjedinjenim Američkim Državama, Salomon Northup, slobodni crnac iz ustaškog New Yorka, otet je i prodat u ropstvo.",
+        "slika":{
+            "src":"images/filmovi/12-years-a-slave-2013.jpg",
+            "alt":"12 godina ropstva"
+        },
+        "video":"https://www.youtube.com/embed/9jSYOrCuJEI",
+        "trajanje":{
+            "sat":2,
+            "minut":14
+        },
+        "godina":2013,
+        "ocena":8.1,
+        "popularnost":5
+    },
+    {
+        "id":2,
+        "kategorijaID":1,
+        "zanr":["drama","romantika","triler"],
+        "nov":false,
+        "naziv":"Acrimony",
+        "opis":"Verna supruga, umorna od toga da bude u senci neiskrenog muža, odlučna je da mu se osveti kada shvati da je izdana.",
+        "slika":{
+            "src":"images/filmovi/acrimony-2018.jpg",
+            "alt":"Acrimony"
+        },
+        "video":"https://www.youtube.com/embed/wlpunOUxYSo",
+        "trajanje":{
+            "sat":2,
+            "minut":0
+        },
+        "godina":2018,
+        "ocena":5.8,
+        "popularnost":10
+    },
+    {
+        "id":3,
+        "kategorijaID":1,
+        "zanr":["drama","romantika"],
+        "nov":false,
+        "naziv":"Anna Karenina",
+        "opis":"U ruskom visokom društvu kasnog 19. stoljeća, aristokrata iz Sankt Peterburga Anna Karenina ulazi u životnu vezu s drskim grofom Aleksejem Vronskim.",
+        "slika":{
+            "src":"images/filmovi/anna-karenina-2012.jpg",
+            "alt":"Anna Karenina"
+        },
+        "video":"https://www.youtube.com/embed/Z-nyXX5zOLg",
+        "trajanje":{
+            "sat":2,
+            "minut":9
+        },
+        "godina":2012,
+        "ocena":6.6,
+        "popularnost":18
+    },
+    {
+        "id":4,
+        "kategorijaID":1,
+        "zanr":["akcioni","komedija"],
+        "nov":false,
+        "naziv":"Ant-man and the wasp",
+        "opis":"Skot Leng balansira između očinstva i spasavanja sveta, Houp i Henk Pim ga salju u novu misiju koja nam oktriva do sada nepoznate detalje iz njhove prošlosti.",
+        "slika":{
+            "src":"images/filmovi/ant-man-and-the-wasp-2018.jpg",
+            "alt":"Ant-man and the wasp"
+        },
+        "video":"https://www.youtube.com/embed/UUkn-enk2RU",
+        "trajanje":{
+            "sat":1,
+            "minut":58
+        },
+        "godina":2018,
+        "ocena":7.1,
+        "popularnost":4
+    },
+    {
+        "id":6,
+        "kategorijaID":1,
+        "zanr":["krimi","komedija","akcioni"],
+        "nov":true,
+        "naziv":"Bad Boys for life",
+        "opis":"Marcus Burnett(Martin Lawrence) je sada policijski inspektor, a Mike Lowery(Wil Smit) je u krizi srednjeg životnog veka. Ponovno se ujedinjuju kada im albanski plaćenik, čijeg su brata ubili, obeća važan bonus.",
+        "slika":{
+            "src":"images/filmovi/bad-boys-2020.jpg",
+            "alt":"Bad Boys for life"
+        },
+        "video":"https://www.youtube.com/embed/jKCj3XuPG8M",
+        "trajanje":{
+            "sat":2,
+            "minut":4
+        },
+        "godina":2020,
+        "ocena":7.2,
+        "popularnost":1
+    },
+    {
+        "id":7,
+        "kategorijaID":1,
+        "zanr":["drama","biografija"],
+        "nov":false,
+        "naziv":"Bombshell",
+        "opis":"Tri radnice Fox News nađu se u sukobu sa osnivačem Rogerom Ailesom zbog njegovog otrovnog šovinističkog pristupa kojim vodi kompaniju.",
+        "slika":{
+            "src":"images/filmovi/bombshell-2019.jpg",
+            "alt":"Bombshell"
+        },
+        "video":"https://www.youtube.com/embed/0rBnkBIhoFE",
+        "trajanje":{
+            "sat":1,
+            "minut":49
+        },
+        "godina":2019,
+        "ocena":6.8,
+        "popularnost":7
+    },
+    
+    {
+        "id":8,
+        "kategorijaID":1,
+        "zanr":["triler","drama","istorijski"],
+        "nov":false,
+        "naziv":"Bridge of spies",
+        "opis":"Americki advokat je regrutiran od strane CIA-e za vrijeme Hladnog rata, da pomogne spasiti pilota zatočenog u Sovjetskom Savezu…",
+        "slika":{
+            "src":"images/filmovi/bridge-of-spies.jpg",
+            "alt":"Bridge of spies"
+        },
+        "video":"https://www.youtube.com/embed/mBBuzHrZBro?start=4",
+        "trajanje":{
+            "sat":2,
+            "minut":22
+        },
+        "godina":2015,
+        "ocena":7.6,
+        "popularnost":9
+    },
+    {
+        "id":9,
+        "kategorijaID":1,
+        "zanr":["komedija","porodični"],
+        "nov":true,
+        "naziv":"Dolittle",
+        "opis":"A physician who can talk to animals embarks on an adventure to find a legendary island with a young apprentice and a crew of strange pets.",
+        "slika":{
+            "src":"images/filmovi/dolittle-2020.jpg",
+            "alt":"Dolittle"
+        },
+        "video":"https://www.youtube.com/embed/zjm6rDgKNMY",
+        "trajanje":{
+            "sat":1,
+            "minut":41
+        },
+        "godina":2018,
+        "ocena":5.5,
+        "popularnost":9
+    },
+    {
+        "id":10,
+        "kategorijaID":1,
+        "zanr":["porodični","drama","misterija"],
+        "nov":false,
+        "naziv":"Fantastic beasts and where to find them",
+        "opis":"Avanture pisca Newt Scamandera u tajnoj zajednici vještica i čarobnjaka u New Yorku, sedamdeset godina prije nego je Harry Potter čitao njegove knjige u školi.",
+        "slika":{
+            "src":"images/filmovi/fantastic-beasts-and-where-to-find-them-2016.jpg",
+            "alt":"Fantastic beast and where to find them"
+        },
+        "video":"https://www.youtube.com/embed/ViuDsy7yb8M",
+        "trajanje":{
+            "sat":2,
+            "minut":12
+        },
+        "godina":2016,
+        "ocena":7.3,
+        "popularnost":14
+    },
+    {
+        "id":11,
+        "kategorijaID":1,
+        "zanr":["drama","romantika"],
+        "nov":false,
+        "naziv":"50 shades of gray",
+        "opis":"Studentkinja knjizevnosti Anastazija Stil izgubila je glavu za Kristijanom Grejom – prelepim, sivookim, mocnim poslovnim muskarcem.",
+        "slika":{
+            "src":"images/filmovi/fifty-shades-of-gray-2015.jpg",
+            "alt":"Fifty shades of gray"
+        },
+        "video":"https://www.youtube.com/embed/SfZWFDs0LxA" ,
+        "trajanje":{
+            "sat":2,
+            "minut":5
+        },
+        "godina":2015,
+        "ocena":4.1,
+        "popularnost":12
+    },
+    {
+        "id":12,
+        "kategorijaID":1,
+        "zanr":["drama","istorijski","triler"],
+        "nov":false,
+        "naziv":"Fury",
+        "opis":"April, 1945. As the Allies make their final push in the European Theatre, a battle-hardened Army sergeant named Wardaddy commands a Sherman tank and his five-man crew on a deadly mission behind enemy lines.",
+        "slika":{
+            "src":"images/filmovi/fury-2014.jpg",
+            "alt":"Fury"
+        },
+        "video":"https://www.youtube.com/embed/DNHuK1rteF4",
+        "trajanje":{
+            "sat":2,
+            "minut":14
+        },
+        "godina":2014,
+        "ocena":7.6,
+        "popularnost":13
+    },
+    {
+        "id":13,
+        "kategorijaID":1,
+        "zanr":["horor","triler","misterija"],
+        "nov":false,
+        "naziv":"Get Out",
+        "opis":"Mladi Afroamerikanac u posjeti je ukletom imanju njegove djevojke Evropljanke...",
+        "slika":{
+            "src":"images/filmovi/get-out-2017.jpg",
+            "alt":"Get Out"
+        },
+        "video":"https://www.youtube.com/embed/DzfpyUB60YY",
+        "trajanje":{
+            "sat":1,
+            "minut":44
+        },
+        "godina":2017,
+        "ocena":7.7,
+        "popularnost":8
+    },
+    {
+        "id":14,
+        "kategorijaID":1,
+        "zanr":["komedija"],
+        "nov":false,
+        "naziv":"Grown Ups 2",
+        "opis":"Cuvena ekipa, predvodjena Adamom Sandlerom, vraca se zeljna jos jedne letnje avanture. Lenny vraca svoju porodicu u mali grad gde su on i njegovi prijatelji odrasli. Ovoga puta, matorani ce od svoje dece uciti lekcije o odrastanju.",
+        "slika":{
+            "src":"images/filmovi/grown-ups-2-2013.jpg",
+            "alt":"Grown Ups 2"
+        },
+        "video":"https://www.youtube.com/embed/a_c3hW0Uyvc?start=5",
+        "trajanje":{
+            "sat":1,
+            "minut":41
+        },
+        "godina":2013,
+        "ocena":5.4,
+        "popularnost":9
+    },
+    {
+        "id":15,
+        "kategorijaID":1,
+        "zanr":["komedija"],
+        "nov":false,
+        "naziv":"Grown ups",
+        "opis":"“Matorci” komedija je o petorici prijatelja i nekadasnjih saigraca koji se okupljaju posle mnogo godina kako bi odali postu preminulom kosarkaskom treneru iz detinjstva. Sa suprugama i decom kao prtljagom, oni provode praznicni vikend u kuci na jezeru u kojoj su proslavljali pobede godinama ranije.",
+        "slika":{
+            "src":"images/filmovi/grown-ups-2010.jpg",
+            "alt":"Grown Ups"
+        },
+        "video":"https://www.youtube.com/embed/e01NVCveGkg?start=6",
+        "trajanje":{
+            "sat":1,
+            "minut":42
+        },
+        "godina":2010,
+        "ocena":5.9,
+        "popularnost":11
+    },
+    {
+        "id":16,
+        "kategorijaID":1,
+        "zanr":["akcioni","porodični","komedija"],
+        "nov":false,
+        "naziv":"Guardians of the galaxy vol.2",
+        "opis":"Marvelovi „Čuvari galaksije vol. 2“ nastavljaju avanture tima koji prelazi krajnje granice kosmosa. Čuvari moraju da se bore da bi održali svoju novostvorenu.",
+        "slika":{
+            "src":"images/filmovi/guardians-of-the-galaxy-vol-2-2017.jpg",
+            "alt":"Guardians of the Galaxy vol.2"
+        },
+        "video":"https://www.youtube.com/embed/2cv2ueYnKjg?start=4",
+        "trajanje":{
+            "sat":2,
+            "minut":16
+        },
+        "godina":2017,
+        "ocena":7.6,
+        "popularnost":6
+    },
+    {
+        "id":17,
+        "kategorijaID":1,
+        "zanr":["drama","istorijski","biografija"],
+        "nov":false,
+        "naziv":"Hidden figures",
+        "opis":"Tri znanstvenice, crnkinje, osiguravaju NASA-i važne matematičke podatke, potrebne za lansiranje prve uspješne svemirske misije.",
+        "slika":{
+            "src":"images/filmovi/hidden-figures-2016.jpg",
+            "alt":"Hidden figures"
+        },
+        "video":"https://www.youtube.com/embed/RK8xHq6dfAo",
+        "trajanje":{
+            "sat":2,
+            "minut":7
+        },
+        "godina":2016,
+        "ocena":7.8,
+        "popularnost":7
+    },
+    {
+        "id":18,
+        "kategorijaID":1,
+        "zanr":["misterija","drama"],
+        "nov":false,
+        "naziv":"Interstellar",
+        "opis":"Grupa istrazivaca koristi novootkrivenu svemirsku crvotocinu da prevazidje ogranicenja putovanja kroz svemir, i da dostigne nove, udaljene prostore na medjuzvezdanom putovanju. ",
+        "slika":{
+            "src":"images/filmovi/interstellar-2014.jpg",
+            "alt":"Interstellar"
+        },
+        "video":"https://www.youtube.com/embed/zSWdZVtXT7E",
+        "trajanje":{
+            "sat":2,
+            "minut":49
+        },
+        "godina":2014,
+        "ocena":8.6,
+        "popularnost":15
+    },
+    {
+        "id":19,
+        "kategorijaID":1,
+        "zanr":["horor"],
+        "nov":false,
+        "naziv":"IT: Chapter Two",
+        "opis":"Twenty-seven years after their first encounter with the terrifying Pennywise, the Losers Club have grown up and moved away, until a devastating phone call brings them back.",
+        "slika":{
+            "src":"images/filmovi/it-chapter-two-2019.jpg",
+            "alt":"IT: Chapter 2"
+        },
+        "video":"https://www.youtube.com/embed/xhJ5P7Up3jA",
+        "trajanje":{
+            "sat":2,
+            "minut":49
+        },
+        "godina":2019,
+        "ocena":6.6,
+        "popularnost":8
+    },
+    {
+        "id":20,
+        "kategorijaID":1,
+        "zanr":["triler","akcioni"],
+        "nov":false,
+        "naziv":"John Wick 2",
+        "opis":"Legendarni plaćeni ubojica John Wick (Keanu Reeves) prisiljen je da se vratiti iz mirovine nakon što ga bivši suradnik zamoli za pomoć da preuzme moć nad tajnim udruženjem koje stoji na čelu svih najsmrtonosnijih plaćenih ubojica svijeta i upravlja njima. John Wick kreće u Rim na ubilački pohod.",
+        "slika":{
+            "src":"images/filmovi/john-wick-2017.jpg",
+            "alt":"John Wick 2"
+        },
+        "video":"https://www.youtube.com/embed/XGk2EfbD_Ps",
+        "trajanje":{
+            "sat":2,
+            "minut":2
+        },
+        "godina":2017,
+        "ocena":7.5,
+        "popularnost":3
+    },
+    {
+        "id":21,
+        "kategorijaID":1,
+        "zanr":["drama","porodični","triler"],
+        "nov":false,
+        "naziv":"Jumanji: Welcome to the jungle",
+        "opis":"Četvoro srednjoškolaca otkrije staru video igru za koju nikad ranije nisu čuli, biće uvučeni u zabavan svet džungle i doslovno postati avatari prema sopstvenom izboru. Međutim, zabava će se uskoro pretvoriti u nešto drugo, kada otkriju da se Džumandži ne igra – već preživljava.",
+        "slika":{
+            "src":"images/filmovi/jumanji-welcome-to-the-jungle-2017.jpg",
+            "alt":"Jumanji: Welcomew to the jungle"
+        },
+        "video":"https://www.youtube.com/embed/2QKg5SZ_35I",
+        "trajanje":{
+            "sat":1,
+            "minut":59
+        },
+        "godina":2017,
+        "ocena":6.9,
+        "popularnost":7
+    },
+    {
+        "id":22,
+        "kategorijaID":1,
+        "zanr":["biografija","istorijski","drama"],
+        "nov":true,
+        "naziv":"Just Mercy",
+        "opis":"Film prati svjetski poznatog branitelja za građanska prava, Bryana Stevensona, koji prepričava svoja iskustva i detaljno opisuje slučaj osuđenog zatvorenika sa smrtnom kaznom za koga se borio da ga oslobode …",
+        "slika":{
+            "src":"images/filmovi/just-mercy-2019.jpg",
+            "alt":"Just Mercy"
+        },
+        "video":"https://www.youtube.com/embed/GVQbeG5yW78",
+        "trajanje":{
+            "sat":2,
+            "minut":17
+        },
+        "godina":2020,
+        "ocena":7.5,
+        "popularnost":2
+    },
+    {
+        "id":24,
+        "kategorijaID":1,
+        "zanr":["komedija","akcioni","porodični"],
+        "nov":true,
+        "naziv":"Man in black - international",
+        "opis":"Ljudi u crnom oduvek štite Zemlju od neprijatelja iz svemira, ali u ovoj avanturi će se susresti s najvećom pretnjom – neprijateljem koji deluje unutar organizacije Ljudi u crnom!",
+        "slika":{
+            "src":"images/filmovi/men-in-black-international-2019.jpg",
+            "alt":"Men in Black International"
+        },
+        "video":"https://www.youtube.com/embed/F3lJwV7ZIIk",
+        "trajanje":{
+            "sat":1,
+            "minut":54
+        },
+        "godina":2019,
+        "ocena":5.6,
+        "popularnost":12
+    },
+    {
+        "id":25,
+        "kategorijaID":1,
+        "zanr":["drama","biografija"],
+        "nov":false,
+        "naziv":"Molly's Game",
+        "opis":"The true story of Molly Bloom, an Olympic-class skier who ran the world's most exclusive high-stakes poker game and became an FBI target.",
+        "slika":{
+            "src":"images/filmovi/molly's-game-2017.jpg",
+            "alt":"Molly's Game"
+        },
+        "video":"https://www.youtube.com/embed/Vu4UPet8Nyc",
+        "trajanje":{
+            "sat":2,
+            "minut":20
+        },
+        "godina":2017,
+        "ocena":7.4,
+        "popularnost":6
+    },
+    {
+        "id":27,
+        "kategorijaID":1,
+        "zanr":["drama","misterija"],
+        "nov":false,
+        "naziv":"The Shape of Water",
+        "opis":"At a top secret research facility in the 1960s, a lonely janitor forms a unique relationship with an amphibious creature that is being held in captivity.",
+        "slika":{
+            "src":"images/filmovi/the-shape-of-water-2017.jpg",
+            "alt":"The Shape of Water"
+        },
+        "video":"https://www.youtube.com/embed/XFYWazblaUA",
+        "trajanje":{
+            "sat":2,
+            "minut":3
+        },
+        "godina":2017,
+        "ocena":7.3,
+        "popularnost":9
+    },
+    {
+        "id":33,
+        "kategorijaID":1,
+        "zanr":["drama","triler"],
+        "nov":true,
+        "naziv":"Once upon a time in Hollywood",
+        "opis":"„Bilo jednom... u Hollywoodu“ priča je o glumcu i njegovom dvojniku koji kreću na put kako bi pronašli svoje mjesto pod suncem u filmskoj industriji daleke 1969. godine. Radnja filma se odvija u Los Angelesu 1969. na vrhuncu hippie Hollywooda. Glavni likovi u filmu Rick Dalton, bivša zvijezda western TV serije i njegov dugogodišnji dvojnik Cliff Booth bore se za svoj uspjeh u svjetskoj prijestolnici filmske industrije koju više ne prepoznaju.",
+        "slika":{
+            "src":"images/filmovi/once-upon-a-time-in-hollywood-2019.jpg",
+            "alt":"Once upon a time in Hollywood"
+        },
+        "video":"https://www.youtube.com/embed/ELeMaP8EPAA",
+        "trajanje":{
+            "sat":2,
+            "minut":41
+        },
+        "godina":2019,
+        "ocena":7.7,
+        "popularnost":4
+    },
+    {
+        "id":34,
+        "kategorijaID":1,
+        "zanr":["triler","horor"],
+        "nov":false,
+        "naziv":"Paranormal activity",
+        "opis":"Obitelj iz Nevade koja uključuje kćer tinejdžericu Alex i njezina mlađeg brata, prihvati mladog susjeda Robbieja dok je njegova majka bolesna. Kada počnu čudni događaji, Alex poveže prijeteća zbivanja s Robbiejevom prisutnošću…",
+        "slika":{
+            "src":"images/filmovi/paranormal-activity-2007.jpg",
+            "alt":"Paranormal Activity"
+        },
+        "video":"https://www.youtube.com/embed/d2Rb662pPEE",
+        "trajanje":{
+            "sat":1,
+            "minut":26
+        },
+        "godina":2007,
+        "ocena":6.3,
+        "popularnost":13
+    },
+    {
+        "id":35,
+        "kategorijaID":1,
+        "zanr":["drama","triler","misterija"],
+        "nov":true,
+        "naziv":"Parasite",
+        "opis":"Svi su nezaposleni u Ki-taekovoj porodici. Oni pokazuju veliko interesovanje za bogate i glamurozne Parkove, sve dok ne postanu protagonisti veoma čudnog i neočekivanog događaja.",
+        "slika":{
+            "src":"images/filmovi/parasite-2019.jpg",
+            "alt":"Parasite"
+        },
+        "video":"https://www.youtube.com/embed/5xH0HfJHsaY",
+        "trajanje":{
+            "sat":2,
+            "minut":12
+        },
+        "godina":2019,
+        "ocena":8.6,
+        "popularnost":1
+    },
+    {
+        "id":36,
+        "kategorijaID":1,
+        "zanr":["drama","triler","horor"],
+        "nov":false,
+        "naziv":"The Prisoners",
+        "opis":"Keler Doer kidnapuje osobu za koju misli da je kriva za nestanak njegove sestogodisnje cerke Ane i njenog druga Dzoja… Jedini trag koji je policija imala, bio je stari kombi parkiran na ulici neposredno pred otmicu. Detektiv Loki, uhapsio je vozaca, ali je morao da ga pusti usled nedostatka dokaza. Ocajni otac morao je da uzme pravdu u svoje ruke…",
+        "slika":{
+            "src":"images/filmovi/prisoners-2013.jpg",
+            "alt":"Prisoners"
+        },
+        "video":"https://www.youtube.com/embed/bpXfcTF6iVk",
+        "trajanje":{
+            "sat":2,
+            "minut":33
+        },
+        "godina":2013,
+        "ocena":8.1,
+        "popularnost":16
+    },
+    {
+        "id":37,
+        "kategorijaID":1,
+        "zanr":["akcioni","porodični"],
+        "nov":true,
+        "naziv":"Sonic",
+        "opis":"Policajac u ruralnom gradu Green Hillsa pomaže Sonicu da pobegne od vlade koja ga želi uhvatiti…",
+        "slika":{
+            "src":"images/filmovi/sonic-2020.jpg",
+            "alt":"Sonic"
+        },
+        "video":"https://www.youtube.com/embed/szby7ZHLnkA",
+        "trajanje":{
+            "sat":1,
+            "minut":39
+        },
+        "godina":2020,
+        "ocena":6.7,
+        "popularnost":3
+    },
+    
+    {
+        "id":38,
+        "kategorijaID":1,
+        "zanr":["komedija","drama","triler"],
+        "nov":false,
+        "naziv":"Tag",
+        "opis":"Svakog mjeseca u godini, petoro prijatelja koji se vole natjecati, igraju Tag od prvog razreda škole – riskirajući i posao i vlastite odnose. Ove godine igra se podudara s datumom vjenčanja jedinog neporaženog igrača, što bi ga napokon trebalo učiniti lakom metom. Ali on zna da oni dolaze… i spreman je.",
+        "slika":{
+            "src":"images/filmovi/tag-2018.jpg",
+            "alt":"Tag"
+        },
+        "video":"https://www.youtube.com/embed/kjC1zmZo30U",
+        "trajanje":{
+            "sat":1,
+            "minut":40
+        },
+        "godina":2018,
+        "ocena":6.5,
+        "popularnost":6
+    },
+    {
+        "id":40,
+        "kategorijaID":1,
+        "zanr":["triler","krimi","misterija"],
+        "nov":false,
+        "naziv":"The Zodiac",
+        "opis":"Veza izmedju niza ubistava u severnoj Kaliforniji, tokom 60-ih i 70-ih su pisma, koja je, kako izgleda, ubica poslao dnevnim listovima San Francisca, trazeci da budu objavljena ili ce ponovno nekoga ubiti. Pisma su popracena brojkama – sifriranim porukama – za koje ubica kaze da sadrze pokazatelje njegovog identiteta. Robert Graysmith, karikaturist u jednom od listova, a takodje i amaterski kriptolog, postaje opsednut resavanjem slucaja.",
+        "slika":{
+            "src":"images/filmovi/zodiac-2007.jpg",
+            "alt":"Zodiac"
+        },
+        "video":"https://www.youtube.com/embed/yNncHPl1UXg",
+        "trajanje":{
+            "sat":2,
+            "minut":37
+        },
+        "godina":2007,
+        "ocena":7.7,
+        "popularnost":7
+    },
+    {
+        "id":41,
+        "kategorijaID":1,
+        "zanr":["biografija","drama"],
+        "nov":false,
+        "naziv":"The Social  Network",
+        "opis":"The Social Network (Drustvena mreza) je film temeljen na knjizi “The Accidental Billionaires: The Founding of Facebook, a Tale of Sex, Money, Genius and Betrayal” (Slucajni milijarderi: Osnivanje Facebooka, prica o seksu, novcu, genijalnosti i izdaji) koja prica pricu iza kontroverznog rodjenja internet stranice.",
+        "slika":{
+            "src":"images/filmovi/the-social-network-2010.jpg",
+            "alt":"The Social Network"
+        },
+        "video":"https://www.youtube.com/embed/lB95KLmpLR4",
+        "trajanje":{
+            "sat":2,
+            "minut":0
+        },
+        "godina":2010,
+        "ocena":7.7,
+        "popularnost":14
+    },
+    {
+        "id":42,
+        "kategorijaID":1,
+        "zanr":["porodični","drama","romantika"],
+        "nov":false,
+        "naziv":"The Greatest Showman",
+        "opis":"Celebrates the birth of show business, and tells of a visionary who rose from nothing to create a spectacle that became a worldwide sensation.",
+        "slika":{
+            "src":"images/filmovi/the-greatest-showman-2017.jpg",
+            "alt":"The Greatest Showman"
+        },
+        "video":"https://www.youtube.com/embed/AXCTMGYUg9A",
+        "trajanje":{
+            "sat":1,
+            "minut":45
+        },
+        "godina":2017,
+        "ocena":7.6,
+        "popularnost":84
+    },
+    {
+        "id":43,
+        "kategorijaID":1,
+        "zanr":["krimi","biografija","triler"],
+        "nov":false,
+        "naziv":"Legend",
+        "opis":"Identical twin gangsters Ronald and Reginald Kray terrorize London during the 1960s.",
+        "slika":{
+            "src":"images/filmovi/the-legend-2015.jpg",
+            "alt":"Legend"
+        },
+        "video":"https://www.youtube.com/embed/yI3v6KfR9Mw",
+        "trajanje":{
+            "sat":2,
+            "minut":12
+        },
+        "godina":2015,
+        "ocena":6.9,
+        "popularnost":9
+    },
+    {
+        "id":44,
+        "kategorijaID":1,
+        "zanr":["istorijski","drama","biografija"],
+        "nov":false,
+        "naziv":"The Imitation Game",
+        "opis":"Film Igra oponašanja snimljen je prema istinitoj priči Alana Turinga, genijalnog britanskog matematičara i informatičara koji je tokom Drugog svetskog rata uspeo dekodirati šifrirani komunikacijski sistem kojeg su nacisti koristili u međusobnoj komunikaciji. Jednako intrigantan bio je i njegov privatan život.",
+        "slika":{
+            "src":"images/filmovi/the-imitation-game-2014.jpg",
+            "alt":"The Imitation Game"
+        },
+        "video":"https://www.youtube.com/embed/nuPZUUED5uk",
+        "trajanje":{
+            "sat":1,
+            "minut":54
+        },
+        "godina":2014,
+        "ocena":8.0,
+        "popularnost":6
+    },
+    {
+        "id":45,
+        "kategorijaID":1,
+        "zanr":["akcioni"],
+        "nov":false,
+        "naziv":"Avatar",
+        "opis":"Radnja filma „Avatar“ smestena je u 22. vek na malu planetu Pandora koja je naseljena rasom Navi, ogromnim plavim humanoidima, miroljubivim dok ih neko ne napadne. Ljudi ne mogu da disu na planeti Pandora pa su genetskim inzenjeringom stvorili hibrid poznat kao Avatar. Dzejk Suli, invalid i ratni veteran, dobrovoljno se prijavio da zivi na planeti Pandori kao Avatar. Zaljubljuje se u princezu Navi plemena i postaje deo sukoba izmedju nijhovog i naseg sveta.",
+        "slika":{
+            "src":"images/filmovi/avatar-2009.jpg",
+            "alt":"Avatar"
+        },
+        "video":"https://www.youtube.com/embed/6ziBFh3V1aM",
+        "trajanje":{
+            "sat":2,
+            "minut":42
+        },
+        "godina":2009,
+        "ocena":7.8,
+        "popularnost":10
+    },
+    {
+        "id":46,
+        "kategorijaID":1,
+        "zanr":["istorijski","drama","triler"],
+        "nov":false,
+        "naziv":"Valkyrie",
+        "opis":"Film snimljenom prema istinitim događajima o smelom i genijalnom planu da se eliminiše jedan od najzlobnijih tirana koje je svet ikada video. Kao ponosan pripadnik vojske, Claus von Stauffenberg je odani oficir koji služi svojoj zemlji dok se nada da će neko pronaći način da zaustavi Hitlera pre nego što Evropa i Nemačka budu uništene. Kako vreme ističe, on odlučuje da sam preduzme korake i priklanja se nemačkom pokretu otpora u pokušaju da izvrše atentat na Hitlera",
+        "slika":{
+            "src":"images/filmovi/valkyrie-2008.jpg",
+            "alt":"Valkyrie"
+        },
+        "video":"https://www.youtube.com/embed/-YppIQUiE9Y",
+        "trajanje":{
+            "sat":2,
+            "minut":1
+        },
+        "godina":2008,
+        "ocena":7.1,
+        "popularnost":7
+    },
+    {
+        "id":47,
+        "kategorijaID":2,
+        "zanr":["drama"],
+        "nov":false,
+        "naziv":"Empire ",
+        "opis":"Lucious Lyon je vlasnik 'Empire Entertaiment' njegova vladavina muzičkim tržitem je godina neprikosnovena. Ali sve se to menja kada sazna da boluje od bolesti koja će ga za nekoliko godina obogaljiti. On sad mora da izabere naslednika između tri sina, a da ne tenzije u porodici ne bude veće nego što jesu. Da sve ne bude kako treba, pobrinuće se Luciousova žena koja izlazi iz zatvora u kojem je provela 7 godina zbog Luciousa.",
+        "slika":{
+            "src":"images/serije/empire-2015.jpg",
+            "alt":"Empire "
+        },
+        "video":"https://www.youtube.com/embed/ayOQQRrGS3g",
+        "trajanje":{
+            "sat":0,
+            "minut":42
+        },
+        "godina":{
+            "pocetak":2015,
+            "kraj":0
+        },
+        "ocena":7.4,
+        "popularnost":7
+    },
+    {
+        "id":48,
+        "kategorijaID":2,
+        "zanr":["krimi","drama"],
+        "nov":false,
+        "naziv":"Peaky Blinders",
+        "opis":"Radnja se fokusira na porodici Shelby, čiji mnogi članovi čine najdivljiju bandu, Peaky Blinderse, koja zarađuju novce klađenjem, reketarenjem i pljačkama. Bandu vodi Tommy Shelby, najnasilniji među njima, ali njegovo vođstvo će uskoro biti testirano.",
+        "slika":{
+            "src":"images/serije/peaky-blinders-2013.jpg",
+            "alt":"Peaky Blinders"
+        },
+        "video":"https://www.youtube.com/embed/SRE5pZwNyrw",
+        "trajanje":{
+            "sat":1,
+            "minut":0
+        },
+        "godina":{
+            "pocetak":2013,
+            "kraj":0
+        },
+        "ocena":8.8,
+        "popularnost":3
+    },
+    {
+        "id":49,
+        "kategorijaID":2,
+        "zanr":["komedija","romantika","drama"],
+        "nov":false,
+        "naziv":"Awkward. ",
+        "opis":"Serija se temelji oko društvene otpadnice Jenna Hamilton, koju, nakon glupe nesreće koja se pomoću glasina krivo protumačila kao pokušaj samoubojstva, počinju primijećivati svi učenici u njezinoj školi. Do promjena i prihvaćanja njezine nesreće, ona postaje dobro poznata svojim vršnjacima. Dok se mora baviti novom, ne tako zabavnom sramotom, i dalje mora upravljati svakodnevnom dramom koja dolazi kada si tinejdžer.",
+        "slika":{
+            "src":"images/serije/awkward-2011.jpg",
+            "alt":"Awkward. "
+        },
+        "video":"https://www.youtube.com/embed/HCeBQaGATh8",
+        "trajanje":{
+            "sat":0,
+            "minut":22
+        },
+        "godina":{
+            "pocetak":2011,
+            "kraj":2016
+        },
+        "ocena":7.5,
+        "popularnost":14
+    },
+    {
+        "id":50,
+        "kategorijaID":2,
+        "zanr":["komedija","avantura"],
+        "nov":false,
+        "naziv":"The Suite Life on Deck ",
+        "opis":"Spin-off of the hit Disney Channel series 'The Suite Life of Zack & Cody,' in which twin brothers Zack and Cody Martin and hotel heiress London Tipton enroll in a semester-at-sea program aboard a ship called the SS Tipton.",
+        "slika":{
+            "src":"images/serije/the-suite-life-on-deck-2008.jpg",
+            "alt":"The Suite Life on Deck "
+        },
+        "video":"https://www.youtube.com/embed/kHGBeEBggcw",
+        "trajanje":{
+            "sat":2,
+            "minut":1
+        },
+        "godina":{
+            "pocetak":2008,
+            "kraj":2011
+        },
+        "ocena":6.3,
+        "popularnost":18
+    },
+    {
+        "id":51,
+        "kategorijaID":2,
+        "zanr":["drama","romantika"],
+        "nov":false,
+        "naziv":"Gossip Girl",
+        "opis":"Privileged teens living on the Upper East Side of New York can hide no secret from the ruthless blogger who is always watching.",
+        "slika":{
+            "src":"images/serije/gossip-girl-2007.jpg",
+            "alt":"Gossip Girl"
+        },
+        "video":"https://www.youtube.com/embed/eCg1RN-dyQk",
+        "trajanje":{
+            "sat":0,
+            "minut":42
+        },
+        "godina":{
+            "pocetak":2007,
+            "kraj":0
+        },
+        "ocena":7.4,
+        "popularnost":7
+    },
+    {
+        "id":52,
+        "kategorijaID":2,
+        "zanr":["akcioni","avantura","drama"],
+        "nov":false,
+        "naziv":"Game of Thrones ",
+        "opis":"Zasnovana na serijalu romana epske fantastike Džordža R. R. Martina, “Igra prestola” je epska priča o izdaji i plemenitosti, smeštena u zemlju Vesteros, gde leta i zime traju godinama, a samo je žeđ za moći večna.",
+        "slika":{
+            "src":"images/serije/game-of-thrones-2011.jpg",
+            "alt":"Game of Thrones "
+        },
+        "video":"https://www.youtube.com/embed/rlR4PJn8b8I",
+        "trajanje":{
+            "sat":0,
+            "minut":57
+        },
+        "godina":{
+            "pocetak":2011,
+            "kraj":2019
+        },
+        "ocena":9.3,
+        "popularnost":1
+    },
+    {
+        "id":53,
+        "kategorijaID":2,
+        "zanr":["komedija","drama","krimi"],
+        "nov":false,
+        "naziv":"Orange Is the New Black",
+        "opis":"Radnja se vrti oko žene koja završava u zatvoru zbog povezanosti sa njenom bivšom devojkom, dilericom droge.",
+        "slika":{
+            "src":"images/serije/orange-is-the-new-black-2013.jpg",
+            "alt":"Orange is the new black"
+        },
+        "video":"https://www.youtube.com/embed/vY0qzXi5oJg",
+        "trajanje":{
+            "sat":0,
+            "minut":59
+        },
+        "godina":{
+            "pocetak":2013,
+            "kraj":2019
+        },
+        "ocena":8.1,
+        "popularnost":6
+    },
+    {
+        "id":54,
+        "kategorijaID":2,
+        "zanr":["komedija","drama","romantika"],
+        "nov":false,
+        "naziv":"Modern Family ",
+        "opis":"'Moderna Porodica', humoristička serija koja je već nakon pilot epizode pokupila sve simpatije kritike i publike. Jedna od najpopularnijih komedija na svetu koja se sa ogromnim uspehom prikazuje širom planete.",
+        "slika":{
+            "src":"images/serije/modern-familly-2009.jpg",
+            "alt":"Modern Family "
+        },
+        "video":"https://www.youtube.com/embed/X0lRjbrH-L8",
+        "trajanje":{
+            "sat":0,
+            "minut":22
+        },
+        "godina":{
+            "pocetak":2009,
+            "kraj":2020
+        },
+        "ocena":8.4,
+        "popularnost":2
+    },
+    {
+        "id":56,
+        "kategorijaID":2,
+        "zanr":["krimi","drama","triler"],
+        "nov":false,
+        "naziv":"Sons of Anarchy",
+        "opis":"Sons of Anarchy je priča o članovima motociklističko-odmetničkog kluba iz Charminga, izmišljenog grada u Sjevernoj Kaliforniji. Klub se bavi legalnim i ilegalnim poslovima kao što su prodaja oružja, pa čak i snimanje porno filmova.",
+        "slika":{
+            "src":"images/serije/sons-of-anarchy-2008.jpg",
+            "alt":"Sons of Anarchy"
+        },
+        "video":"https://www.youtube.com/embed/Sw6tNf_T5SY",
+        "trajanje":{
+            "sat":0,
+            "minut":45
+        },
+        "godina":{
+            "pocetak":2008,
+            "kraj":2014
+        },
+        "ocena":8.6,
+        "popularnost":10
+    },
+    {
+        "id":57,
+        "kategorijaID":2,
+        "zanr":["krimi","misterija","triler"],
+        "nov":false,
+        "naziv":"Bron/Broen",
+        "opis":"Dve zemlje... Odvojene mostom... Povezane ubistvom... Bron/Broen je zasnovana na krimi noveli Arne Dahl. Serija nas pokreće i vodi u veliki haos u severnim zemljama. I to je samo početak. Švedsko-danska serija.",
+        "slika":{
+            "src":"images/serije/bron-2011.jpg",
+            "alt":"Bron/Broen"
+        },
+        "video":"https://www.youtube.com/embed/83FcxzlXbKs",
+        "trajanje":{
+            "sat":1,
+            "minut":0
+        },
+        "godina":{
+            "pocetak":2011,
+            "kraj":2018
+        },
+        "ocena":8.6,
+        "popularnost":9
+    },
+    {
+        "id":58,
+        "kategorijaID":2,
+        "zanr":["misterija","krimi","drama"],
+        "nov":false,
+        "naziv":"True Detective ",
+        "opis":"Nagrađivana drama HBO se u novoj, trećoj sezoni bavi novim slučajem mučnog ubistva dece u Arkanzasu koje se desilo pre 35 godina. Glavne uloge tumače Maheršala Ali, Stiven Dorf i Karmen Ego.",
+        "slika":{
+            "src":"images/serije/true-detective-2014.jpg",
+            "alt":"True Detective "
+        },
+        "video":"https://www.youtube.com/embed/YpUznQds8p4",
+        "trajanje":{
+            "sat":0,
+            "minut":55
+        },
+        "godina":{
+            "pocetak":2014,
+            "kraj":0
+        },
+        "ocena":9.0,
+        "popularnost":2
+    },
+    {
+        "id":59,
+        "kategorijaID":2,
+        "zanr":["krimi","drama","misterija"],
+        "nov":false,
+        "naziv":"Ripper Street ",
+        "opis":"Napeta kriminalistička serija nastala u BBC-evoj produkciji vraća nas u London godine 1889., u vrijeme kada je ulicama Whitechapela harao neuhvatljivi serijski ubojica - Jack Rasparač.",
+        "slika":{
+            "src":"images/serije/ripper-street-2012.jpg",
+            "alt":"Ripper Street "
+        },
+        "video":"https://www.youtube.com/embed/QaK6KjaNlPc",
+        "trajanje":{
+            "sat":2,
+            "minut":1
+        },
+        "godina":{
+            "pocetak":2012,
+            "kraj":2016
+        },
+        "ocena":8.1,
+        "popularnost":6
+    },
+    {
+        "id":60,
+        "kategorijaID":2,
+        "zanr":["akcioni","krimi","drama"],
+        "nov":false,
+        "naziv":"NCIS: Los Angeles ",
+        "opis":"NCIS: Los Angeles je CBS-ova akciona drama o svetu u kome su ulozi veliki, a rizik svakodnava pojava. Služba za posebne projekte zadužena je za obračun sa opasnim i neuhvatljivim kriminalcima koji predstavlju pretnju po nacionalnu bezbednost.",
+        "slika":{
+            "src":"images/serije/ncis-la-2009.jpg",
+            "alt":"NCIS: Los Angeles"
+        },
+        "video":"",
+        "trajanje":{
+            "sat":0,
+            "minut":43
+        },
+        "godina":{
+            "pocetak":2009,
+            "kraj":0
+        },
+        "ocena":6.7,
+        "popularnost":11
+    },
+    {
+        "id":61,
+        "kategorijaID":2,
+        "zanr":["akcioni","drama","avantura"],
+        "nov":false,
+        "naziv":"Vikings",
+        "opis":"Serija Vikinzi prati avanture Ragnara Lothbroka, najvećeg junaka njegovog doba. Serija govori o sagi Ragnara i njegove bande koja je sastavljena od njegove braće Vikinga i njegove obitelji, dok se trudi postati kralj vikingškog plemena. Legenda kaže da je on bio izravni potomak Odina, boga rata i ratnika.",
+        "slika":{
+            "src":"images/serije/vikings-2013.jpg",
+            "alt":"Vikings"
+        },
+        "video":"https://www.youtube.com/embed/Y7d0A5re7-0",
+        "trajanje":{
+            "sat":0,
+            "minut":44
+        },
+        "godina":{
+            "pocetak":2013,
+            "kraj":0
+        },
+        "ocena":8.6,
+        "popularnost":3
+    },
+    {
+        "id":62,
+        "kategorijaID":2,
+        "zanr":["triler","horor","drama"],
+        "nov":false,
+        "naziv":"The Walking Dead ",
+        "opis":"Policajac iz Atlante, Rik Grim (Andrew Lincoln) nakon što je ranjen u jednoj akciji, gubi svest i biva prebačen u bolnicu. Posle nekoliko nedelja se budi, ali otkriva da se nešto strašno desilo. Bolnica je prazna, ulice su prazne... nema ničega osim leševa koji leže razbacani na svakom koraku. Ubrzo otkriva poražavajuću istinu: opaki nepoznati virus opustošio je svet, pretvarajući ljude u pomahnitale zveri koji nemaju više ništa ljudskog u sebi i kojima je jedini cilj hrana... hrana u vidu mesa toplokrvnih bića, koje čine i ljudi...",
+        "slika":{
+            "src":"images/serije/the-walking-dead-2010.jpg",
+            "alt":"The Walking Dead "
+        },
+        "video":"https://www.youtube.com/embed/R1v0uFms68U",
+        "trajanje":{
+            "sat":0,
+            "minut":44
+        },
+        "godina":{
+            "pocetak":2010,
+            "kraj":0
+        },
+        "ocena":8.2,
+        "popularnost":5
+    },
+    {
+        "id":63,
+        "kategorijaID":2,
+        "zanr":["drama","horor"],
+        "nov":false,
+        "naziv":"Penny Dreadful",
+        "opis":"U ovom zastrašujućem psihološkom trileru, neki od najjezivijih književnih likova – uključujući dr Frankenštajna i njegovo stvorenje, kao i Dorijana Greja i čuvene likove iz romana o Drakuli – sukobljavaju se u viktorijanskom Londonu.",
+        "slika":{
+            "src":"images/serije/peni-2014.jpg",
+            "alt":"Penny Dreadful"
+        },
+        "video":"https://www.youtube.com/embed/YFXHfEqMcis",
+        "trajanje":{
+            "sat":1,
+            "minut":0
+        },
+        "godina":{
+            "pocetak":2014,
+            "kraj":2016
+        },
+        "ocena":8.2,
+        "popularnost":6
+    },
+    {
+        "id":64,
+        "kategorijaID":2,
+        "zanr":["misterija","krimi","drama"],
+        "nov":true,
+        "naziv":"The Outsider",
+        "opis":"Zasnovana na bestseleru Stivena Kinga, nova dramska serija “Autsajder” prati istragu gnusnog ubistva jedanaestogodišnjeg dečaka i misteriozne okolnosti koje okružuju ovaj zastrašujući zločin.",
+        "slika":{
+            "src":"images/serije/the-outsider-2020.jpg",
+            "alt":"The Outsider"
+        },
+        "video":"",
+        "trajanje":{
+            "sat":1,
+            "minut":0
+        },
+        "godina":{
+            "pocetak":2020,
+            "kraj":0
+        },
+        "ocena":8.1,
+        "popularnost":1
+    },
+    {
+        "id":65,
+        "kategorijaID":2,
+        "zanr":["avantura","akcioni"],
+        "nov":false,
+        "naziv":"Gravity Falls",
+        "opis":"Brat i sestra, blizanci Dipper i Mabel Pines provode leto u turističkoj zamci svog pradede u zagonetnom Gravity Falls, Oregon.",
+        "slika":{
+            "src":"images/serije/gravity-falls-2012.jpg",
+            "alt":"Gravity Falls"
+        },
+        "video":"https://www.youtube.com/embed/0PYzpK-xa6c",
+        "trajanje":{
+            "sat":0,
+            "minut":23
+        },
+        "godina":{
+            "pocetak":2012,
+            "kraj":2016
+        },
+        "ocena":8.9,
+        "popularnost":11
+    },
+    {
+        "id":66,
+        "kategorijaID":2,
+        "zanr":["akcioni","drama","krimi"],
+        "nov":false,
+        "naziv":"The Dresden Files",
+        "opis":"A Chicago-based wizard works as a private investigator.",
+        "slika":{
+            "src":"images/serije/the-dresden-files-2007.jpg",
+            "alt":"The Dresden FIles"
+        },
+        "video":"https://www.youtube.com/embed/5UnZDFsmoOQ",
+        "trajanje":{
+            "sat":1,
+            "minut":0
+        },
+        "godina":{
+            "pocetak":2007,
+            "kraj":0
+        },
+        "ocena":7.7,
+        "popularnost":13
+    },
+    {
+        "id":67,
+        "kategorijaID":2,
+        "zanr":["komedija"],
+        "nov":false,
+        "naziv":"Veep",
+        "opis":"Sedma i poslednja sezona nagrađivane humorističke serije sa dobitnicom nagrade Emi, Džulijom Luj- Drajfus, u ulozi Seline Majer, bivše potpredsednice i nekadašnje predsednice, koja ne može da živi običan život i ponovo se kandiduje.",
+        "slika":{
+            "src":"images/serije/veep-2012.jpg",
+            "alt":"Veep"
+        },
+        "video":"https://www.youtube.com/embed/Ok9aMQfeKs0",
+        "trajanje":{
+            "sat":0,
+            "minut":28
+        },
+        "godina":{
+            "pocetak":2012,
+            "kraj":2019
+        },
+        "ocena":8.3,
+        "popularnost":5
+    },
+    {
+        "id":68,
+        "kategorijaID":2,
+        "zanr":["krimi","drama","istorijski"],
+        "nov":false,
+        "naziv":"Boardwalk Empire ",
+        "opis":"Čuvena dramska serija, smeštena u Atlantik Siti 1920-ih godina, turbulentno vreme u Americi posle Prvog svetskog rata koje je u pored reke emigranata donelo i čuveno doba Prohibicije i pojavu gangstera u obliku koji pre toga nije bio poznat.",
+        "slika":{
+            "src":"images/serije/boardwalk-empire-2010.jpg",
+            "alt":"Boardwalk Empire "
+        },
+        "video":"https://www.youtube.com/embed/e6z71l6HQwQ",
+        "trajanje":{
+            "sat":0,
+            "minut":55
+        },
+        "godina":{
+            "pocetak":2010,
+            "kraj":2014
+        },
+        "ocena":8.5,
+        "popularnost":7
+    },
+    {
+        "id":69,
+        "kategorijaID":2,
+        "zanr":["komedija"],
+        "nov":false,
+        "naziv":"Silicon Valley ",
+        "opis":"U visokotehnološkoj zlatnoj groznici u savremenoj Silicijumskoj dolini, ljudi s najvećim izgledima za uspeh najmanje su sposobni da ga i postignu. U novoj komediji Majk Džadž („Kancelarijski prostor“) donosi svoj satirični humor na HBO.",
+        "slika":{
+            "src":"images/serije/silicon-valley-2014.jpg",
+            "alt":"Silicon Valley "
+        },
+        "video":"https://www.youtube.com/embed/Vm4tx1O9GAc",
+        "trajanje":{
+            "sat":0,
+            "minut":28
+        },
+        "godina":{
+            "pocetak":2014,
+            "kraj":2019
+        },
+        "ocena":8.5,
+        "popularnost":2
+    },
+    {
+        "id":70,
+        "kategorijaID":2,
+        "zanr":["komedija","drama"],
+        "nov":true,
+        "naziv":"Sex Education",
+        "opis":"U visokotehnološkoj zlatnoj groznici u savremenoj Silicijumskoj dolini, ljudi s najvećim izgledima za uspeh najmanje su sposobni da ga i postignu. U novoj komediji Majk Džadž („Kancelarijski prostor“) donosi svoj satirični humor na HBO.",
+        "slika":{
+            "src":"images/serije/sex-education-2019.jpg",
+            "alt":"Sex Education"
+        },
+        "video":"https://www.youtube.com/embed/qZhb0Vl_BaM",
+        "trajanje":{
+            "sat":0,
+            "minut":45
+        },
+        "godina":{
+            "pocetak":2019,
+            "kraj":0
+        },
+        "ocena":8.3,
+        "popularnost":2
+    },
+    {
+        "id":71,
+        "kategorijaID":2,
+        "zanr":["akcioni","avantura","drama"],
+        "nov":false,
+        "naziv":"Killing Eve",
+        "opis":"Iv je dokona radnica bezbednosne službe, veoma britkog uma. Vilanel je elegantna i talentovana za ubijanje. Ove dve izuzetno inteligentne žene, podjednako opsednute jedna drugom, sukobljavaju se u epskoj igri mačke i miša.",
+        "slika":{
+            "src":"images/serije/killing-eve-2018.jpg",
+            "alt":"Killing Eve"
+        },
+        "video":"https://www.youtube.com/embed/Vm4tx1O9GAc",
+        "trajanje":{
+            "sat":0,
+            "minut":42
+        },
+        "godina":{
+            "pocetak":2018,
+            "kraj":0
+        },
+        "ocena":8.3,
+        "popularnost":3
+    },
+    {
+        "id":72,
+        "kategorijaID":2,
+        "zanr":["triler","istorijski","drama"],
+        "nov":true,
+        "naziv":"Chernobyl ",
+        "opis":"Petodelna mini-serija “Černobilj” predstavlja dramatizaciju priče o nuklearnoj nesreći iz 1986. – jednoj od najvećih katastrofa koje je izazvao čovek – i hrabrim ljudima koji su žrtvovali živote da spasu Evropu od nezamislivog uništenja.",
+        "slika":{
+            "src":"images/serije/chernobyl-2019.jpg",
+            "alt":"Chernobyl"
+        },
+        "video":"https://www.youtube.com/embed/s9APLXM9Ei8",
+        "trajanje":{
+            "sat":0,
+            "minut":43
+        },
+        "godina":{
+            "pocetak":2019,
+            "kraj":0
+        },
+        "ocena":9.4,
+        "popularnost":3
+    },
+    {
+        "id":73,
+        "kategorijaID":3,
+        "zanr":["komedija","avantura"],
+        "nov":true,
+        "naziv":"Moana",
+        "opis":"U drevnoj Polineziji, kada strašna kletva, koju je uzrokovao polubog Maui dođe do Moaninog ostrva, ona se upušta u avanturu i na poziv Okeana odlazi u potragu za Mauijem kako bi spasila svoje ostrvo.",
+        "slika":{
+            "src":"images/crtani/moana-2016.jpg",
+            "alt":"Moana"
+        },
+        "video":"https://www.youtube.com/embed/LKFuXETZUsI",
+        "trajanje":{
+            "sat":1,
+            "minut":47
+        },
+        "godina":2016,
+        "ocena":7.6,
+        "popularnost":10
+    },
+    {
+        "id":74,
+        "kategorijaID":3,
+        "zanr":["akcioni","avantura"],
+        "nov":false,
+        "naziv":"Spider-Man: Into the Spider-Verse",
+        "opis":"Nakon što ga je ujeo radioaktivni pauk, bruklinski tinejdžer Majls Morales dobija supermoći i postaje jedan jedini Spajdermen. Kad se otvori prolaz u multiverzum, Majls shvata da nije jedini superheroj s osobinama pauka, jer upoznaje mnogo različitih verzija sebe iz drugih univerzuma, uključujući originalnog Pitera Parkera i Gven Stejsi. Zajedno se bore protiv zlog Kingpina i pokušavaju da spasu svet.",
+        "slika":{
+            "src":"images/crtani/spider-man-into-the-spider-verse-2018.jpg",
+            "alt":"Spider-Man: Into the Spider-Verse"
+        },
+        "video":"https://www.youtube.com/embed/g4Hbz2jLxvQ",
+        "trajanje":{
+            "sat":1,
+            "minut":57
+        },
+        "godina":2018,
+        "ocena":8.4,
+        "popularnost":5
+    },
+    {
+        "id":75,
+        "kategorijaID":3,
+        "zanr":["drama"],
+        "nov":true,
+        "naziv":"Your Name.",
+        "opis":"Dva stranca otkrivaju da su povezana na bizaran način. Kada se veza uspostavi, da li će daljina biti jedina stvar koja ih razdvaja?",
+        "slika":{
+            "src":"images/crtani/your-name-2016.jpg",
+            "alt":"Your Name."
+        },
+        "video":"https://www.youtube.com/embed/xU47nhruN-Q",
+        "trajanje":{
+            "sat":1,
+            "minut":46
+        },
+        "godina":2016,
+        "ocena":8.4,
+        "popularnost":11
+    },
+    {
+        "id":76,
+        "kategorijaID":3,
+        "zanr":["drama","avantura"],
+        "nov":true,
+        "naziv":"The Lion King",
+        "opis":"Posle ubistva oca, mladi princ lav beži iz kraljevstva i spoznaje pravo značenje odogovornsoti i hrabrosti.",
+        "slika":{
+            "src":"images/crtani/the-lion-king-2019.jpg",
+            "alt":"The Lion King"
+        },
+        "video":"https://www.youtube.com/embed/7TavVZMewpY",
+        "trajanje":{
+            "sat":1,
+            "minut":58
+        },
+        "godina":2019,
+        "ocena":6.9,
+        "popularnost":5
+    },
+    {
+        "id":77,
+        "kategorijaID":3,
+        "zanr":["avantura","porodični"],
+        "nov":false,
+        "naziv":"WALL·E",
+        "opis":"In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+        "slika":{
+            "src":"images/crtani/wall-e-2008.jpg",
+            "alt":"WALL·E"
+        },
+        "video":"https://www.youtube.com/embed/CZ1CATNbXg0",
+        "trajanje":{
+            "sat":1,
+            "minut":38
+        },
+        "godina":2008,
+        "ocena":8.4,
+        "popularnost":11
+    },
+    {
+        "id":78,
+        "kategorijaID":3,
+        "zanr":["komedija","avantura"],
+        "nov":false,
+        "naziv":"Isle of Dogs",
+        "opis":"Set in Japan, Isle of Dogs follows a boy's odyssey in search of his lost dog.",
+        "slika":{
+            "src":"images/crtani/isle-of-dogs-2018.jpg",
+            "alt":"Isle of Dogs"
+        },
+        "video":"https://www.youtube.com/embed/dt__kig8PVU",
+        "trajanje":{
+            "sat":1,
+            "minut":41
+        },
+        "godina":2018,
+        "ocena":7.9,
+        "popularnost":13
+    },
+    {
+        "id":79,
+        "kategorijaID":3,
+        "zanr":["biografija","drama"],
+        "nov":false,
+        "naziv":"Persepolis",
+        "opis":"A precocious and outspoken Iranian girl grows up during the Islamic Revolution.",
+        "slika":{
+            "src":"images/crtani/persepolis-2007.jpg",
+            "alt":"Persepolis"
+        },
+        "video":"https://www.youtube.com/embed/3PXHeKuBzPY",
+        "trajanje":{
+            "sat":1,
+            "minut":36
+        },
+        "godina":2007,
+        "ocena":8.0,
+        "popularnost":8
+    },
+    {
+        "id":80,
+        "kategorijaID":3,
+        "zanr":["porodični","misterija"],
+        "nov":false,
+        "naziv":"Coco",
+        "opis":"Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+        "slika":{
+            "src":"images/crtani/coco-2017.jpg",
+            "alt":"Coco"
+        },
+        "video":"https://www.youtube.com/embed/Ga6RYejo6Hk",
+        "trajanje":{
+            "sat":1,
+            "minut":45
+        },
+        "godina":2017,
+        "ocena":8.4,
+        "popularnost":2
+    },
+    {
+        "id":81,
+        "kategorijaID":3,
+        "zanr":["akcioni","krimi"],
+        "nov":false,
+        "naziv":"Batman: The Killing Joke",
+        "opis":"As Batman hunts for the escaped Joker, the Clown Prince of Crime attacks the Gordon family to prove a diabolical point mirroring his own fall into madness.",
+        "slika":{
+            "src":"images/crtani/batman-the-killing-joke-2015.jpg",
+            "alt":"Batman: The Killing Joke"
+        },
+        "video":"https://www.youtube.com/embed/ZQTqu1_iQkw",
+        "trajanje":{
+            "sat":1,
+            "minut":16
+        },
+        "godina":2015,
+        "ocena":6.4,
+        "popularnost":17
+    },
+    {
+        "id":82,
+        "kategorijaID":3,
+        "zanr":["romantika","avantura"],
+        "nov":false,
+        "naziv":"The Princess and the Frog",
+        "opis":"Predivna devojka Tiana, princ-žabac koji očajnički pokušava da ponovo postane čovek i fatalni poljubac koji će ih oboje odvesti na urnebesnu avanturu kroz mistične močvare Luizijane.",
+        "slika":{
+            "src":"images/crtani/the-princess-and-the-frog-2009.jpg",
+            "alt":"The Princess and the Frog"
+        },
+        "video":"https://www.youtube.com/embed/uQBy6jqbmlU",
+        "trajanje":{
+            "sat":1,
+            "minut":37
+        },
+        "godina":2009,
+        "ocena":7.1,
+        "popularnost":14
+    },
+    {
+        "id":83,
+        "kategorijaID":3,
+        "zanr":["avantura","porodični"],
+        "nov":false,
+        "naziv":"The Little Prince",
+        "opis":"Film je adaptacija čuvenog istoimenog romana Antoana de Sent Egzeperija, jedne od najčitanijih knjiga svih vremena.",
+        "slika":{
+            "src":"images/crtani/the-little-prince-2015.jpg",
+            "alt":"The Little Prince"
+        },
+        "video":"https://www.youtube.com/embed/fEPqgSNLfK8",
+        "trajanje":{
+            "sat":1,
+            "minut":48
+        },
+        "godina":2015,
+        "ocena":7.7,
+        "popularnost":7
+    },
+    {
+        "id":84,
+        "kategorijaID":3,
+        "zanr":["horor","akcioni"],
+        "nov":false,
+        "naziv":"Resident Evil: Degeneration ",
+        "opis":"Leon S. Kennedy and Claire Redfield must battle a rogue warrior seeking revenge after unleashing the deadly G-Virus, whilst a mutated monster goes on a rampage.",
+        "slika":{
+            "src":"images/crtani/resident-evil-degeneration-2008.jpg",
+            "alt":"Resident Evil: Degeneration "
+        },
+        "video":"https://www.youtube.com/embed/fEPqgSNLfK8",
+        "trajanje":{
+            "sat":1,
+            "minut":38
+        },
+        "godina":2008,
+        "ocena":6.5,
+        "popularnost":16
+    },
+    {
+        "id":85,
+        "kategorijaID":3,
+        "zanr":["triler","avantura"],
+        "nov":false,
+        "naziv":"How to train your dragon 2",
+        "opis":"Iz studija DreamWorks Animation stiže nam epska animirana avantura o odrastanju i pronalaženju hrabrosti da se suočimo sa nepoznatim i o tome kako ne treba odustati.",
+        "slika":{
+            "src":"images/crtani/how-to-train-your-dragon-2014.jpg",
+            "alt":"How to train your dragon 2"
+        },
+        "video":"https://www.youtube.com/embed/Z9a4PvzlqoQ",
+        "trajanje":{
+            "sat":1,
+            "minut":42
+        },
+        "godina":2014,
+        "ocena":7.8,
+        "popularnost":7
+    },
+    {
+        "id":86,
+        "kategorijaID":3,
+        "zanr":["triler","avantura"],
+        "nov":false,
+        "naziv":"Brave",
+        "opis":"Determined to make her own path in life, Princess Merida (Kelly Macdonald) defies a custom that brings chaos to her kingdom. Granted one wish, Merida must rely on her bravery and her archery skills to undo a beastly curse.",
+        "slika":{
+            "src":"images/crtani/brave-2012.jpg",
+            "alt":"Brave"
+        },
+        "video":"https://www.youtube.com/embed/6CKcqIahedc",
+        "trajanje":{
+            "sat":1,
+            "minut":33
+        },
+        "godina":2012,
+        "ocena":7.1,
+        "popularnost":12
+    }
+]

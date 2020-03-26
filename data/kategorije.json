@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "naziv":"Filmovi",
+        "putanja":"index.html"
+    },
+    {
+        "id":2,
+        "naziv":"Serije",
+        "putanja":"serije.html"
+    },
+    {
+        "id":3,
+        "naziv":"Animirani",
+        "putanja":"animirani.html"
+    }
+]
