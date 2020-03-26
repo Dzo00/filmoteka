@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Filmoteka</title>
+    <meta name="author" content="Jovana Lazarevic"/>    
+	<meta name="description" content="Zdravo, ja sam autor ovog sajta, ako vam se svidja moj rad, kontaktirajte me na mejl!"/>
+    <meta name="keywords" content="Jovana, Lazarevic, programiranje"/>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous"> 
+    <!-- My CSS -->
+    <link rel="stylesheet" href="css/style.css" type="text/css"> 
+    
+</head>
+<body>
+    <!-- Header start -->
+    <header class="border-top border-bottom border-color-yellow border-size-1">
+        <div class="pt-1 container-fluid bg-gray-dark">
+            <div class="row">
+                <div id="logo" class="col-6 col-sm-6 col-lg-4 order-1 order-sm-1 mb-4">
+                    <a class="d-flex" href="index.html">
+                        <img src="images/Filmoteka_Logo1.png" alt="Logos">
+                        <h1 class="text-uppercase h2 pt-4 pl-2 highlight">Filmoteka</h1>
+                    </a>
+                </div>
+                <div id="inputSearch" class="log col-4 col-sm-5 col-md-5 col-lg-4 order-2 order-sm-3 order-md-2 align-self-center mb-3 mx-auto">
+                    <input type="text" id="search" name="Search" placeholder="Pretraga" class="form-control mb-lg-2">                    
+                </div>
+                <div class="col-12 col-sm-6 col-md-6 col-lg-4 mb-3 d-flex order-3 order-sm-2 order-md-3 justify-content-around align-items-start">
+                    <a href="#" class="link-button btn btn-primary btn-md mt-4 font-weight-bold" data-toggle="modal" data-target="#modalLoginForm">Prijava</a>
+                    <a href="#" class="link-button btn btn-primary btn-md ml-4 ml-sm-0 mt-4 font-weight-bold" data-toggle="modal" data-target="#modalRegisterForm">Registracija</a>
+                    <a id="bookmark-link" href="bookmark.html" class="mt-4 link-color h2 ml-4 ml-sm-0 mr-1"><i class="far fa-bookmark mr-1"></i><span id="bookmarkNumber" class="h4 ml-1"></span></a>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- MODAL ZA LOGIN -->
+    <div class="modal fade" id="modalLoginForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="text-white modal-dialog" role="document">
+        <div class="modal-content bg-gray-dark">
+        <div class="modal-header text-center border-color-yellow">
+            <h4 class="modal-title w-100 font-weight-bold bg-gray-dark text-pink">Prijava</h4>
+            <button type="button" class="text-white close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+            </button>
+        </div>
+        <form action="obrada.php" method="POST">
+            <div class="modal-body mx-3">
+                <div class="md-form mb-3">
+                <i class="fas fa-envelope prefix text-yellow"></i>
+                <label class="text-yellow" for="emailLog">Korisničko ime</label>
+                <input type="email" id="emailLog" name="emailLog" class="form-control fc1">
+                </div>
+
+                <div class="md-form mb-2">
+                <i class="fas fa-lock prefix py-1 text-yellow"></i>
+                <label class="text-yellow" for="pass">Lozinka</label>
+                <input type="password" id="pass" class="form-control fc1">
+                <div class="text-yellow mt-2"></div>
+                </div>
+
+            </div>
+            <div class="modal-footer d-flex justify-content-center border-color-yellow">
+                <button type="submit" id="btnLog" name="btnLog" class="btn btn-white font-weight-bold text-pink rounded-lg border border-color-pink border-size-1 hover1">Uloguj se</button>
+            </div>
+        </form>
+    </div>
+    </div>
+    </div>
+    <!-- KRAJ MODALA ZA LOGOVANJE -->
+    <!-- MODAL ZA REGISTRACIJU -->
+        <div class="modal fade" id="modalRegisterForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+        aria-hidden="true">
+        <div class="text-white modal-dialog" role="document">
+        <div class="modal-content bg-gray-dark">
+            <div class="modal-header text-center border-color-yellow">
+            <h4 class="modal-title w-100 font-weight-bold text-pink">Napravite nalog</h4>
+            <button type="button" class="text-white close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+            </div>
+            <form action="obrada1.php" method="POST">
+                <div class="modal-body mx-3">
+                <div class="md-form mb-3">
+                    <i class="fas fa-user prefix text-yellow"></i>
+                    <label class="text-yellow" for="name">Vaše ime</label>
+                    <input type="text" id="name" name="name" class="form-control fc1">
+                </div>
+                <div class="md-form mb-3">
+                    <i class="fas fa-envelope prefix text-yellow"></i>
+                    <label class="text-yellow" for="emailReg">Vaš email</label>
+                    <input type="email" id="emailReg" name="emailReg" class="form-control fc1">
+                </div>
+        
+                <div class="md-form mb-3">
+                    <i class="fas fa-lock prefix text-yellow"></i>
+                    <label class="text-yellow" for="password">Unesite lozinku</label>
+                    <input type="password" id="password" name="password" class="form-control fc1">
+                    <div class="text-yellow mt-2"></div>
+                </div>
+                
+                <div class="md-form mb-2">
+                    <i class="fas fa-lock prefix text-yellow"></i>
+                    <label class="text-yellow" for="passwordRepeat">Potvrdite lozinku</label>
+                    <input type="password" id="passwordRepeat" name="passwordRepeat" class="form-control fc1">
+                    <div class="text-yellow mt-1"></div>
+                </div>
+
+                </div>
+                <div class="modal-footer d-flex justify-content-center border-color-yellow">
+                <button type="submit" id="btnReg" name="btnReg" class="btn btn-white font-weight-bold text-pink rounded-lg border border-color-pink border-size-1 hover1">Registruj se</button>
+                </div>
+            </form>
+        </div>
+        </div>
+    </div>
+    <!-- KRAJ MODALA ZA REGISTRACIJU -->
+    <div id="menu" class="container-fluid bg-gray-dark border-bottom border-color-yellow border-size-1">
+        <div class="col-md-12">
+            <ul id="kategorije" class="nav py-1 h5 justify-content-around">
+               <!-- LINKOVI ZA KATEGORIJE -->
+               <li class="nav-item mt-1 order-4">
+                <a href="autor.html" class="h3 link-color"><i class="fas fa-user-ninja"></i></a>
+               </li>
+               <li class="nav-item mt-1 order-5">
+                <a href="dokumentacija.pdf" class="h3 link-color" target="_blank"><i class="fas fa-archive" aria-hidden="true"></i></a>
+               </li>
+            </ul>
+        </div>
+    </div>
+    <main>
+        <div id="author" class="col-10 m-auto d-flex justify-content-around mx-2 p-5">
+            <div><img class="img-fluid border rounded-lg border-color-yellow border-size-1" src="images/author.gif" alt="Jovana Lazarevic"></div>
+            <div id="about-author" class="bg-black-70 p-4">
+                <div class="d-flex justify-content-between">
+                    <h2 class="highlight mr-2">Info:</h2>
+                    <p class="highlight">Ja sam Jovana Lazarevic, trenutno studiram programiranje na Visokoj ICT.</p>
+                </div>
+                <div class="d-flex justify-content-start">
+                    <h2 class="highlight mr-4">Kontakt:</h2>
+                    <a class="h2 link-color mr-4" href="mailto:jovana.lazarevic.242.19@ict.edu.rs"><i class="fas fa-envelope-open" aria-hidden="true"></i></a>
+                    <a class="h2 link-color mr-4" href="https://www.instagram.com/dzovanamen" target="_blank"><i class="fab fa-instagram" aria-hidden="true"></i></a>
+                    <a class="h2 link-color" href="https://www.facebook.com/" target="_blank"><i class="fab fa-facebook-square" aria-hidden="true"></i></a>
+                </div>
+            </div>
+        </div>
+    </main>
+    <footer class="bg-gray-dark d-flex justify-content-center py-2">
+        <p class="text-yellow m-0">COPYRIGHT &copy <script>var datum= new Date(); document.write(datum.getFullYear());</script> Created by Jovana Lazarevic</p>
+    </footer>
+    <script src="js/jquery-3.4.1.min.js"></script>
+    <script src="js/jquery-ui.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/main.js"></script>
+    
+</body>
+</html>
