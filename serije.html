@@ -27,13 +27,13 @@
                         <h1 class="text-uppercase h2 pt-4 pl-2 highlight">Filmoteka</h1>
                     </a>
                 </div>
-                <div id="inputSearch" class="log col-4 col-sm-5 col-md-5 col-lg-4 order-2 order-sm-3 order-md-2 align-self-center mb-3 mx-auto">
+                <div id="inputSearch" class="log col-4 col-sm-5 col-lg-4 order-2 order-sm-3 order-md-2 align-self-center mb-3 mx-auto">
                     <input type="text" id="search" name="Search" placeholder="Pretraga" class="form-control mb-lg-2">                    
                 </div>
-                <div class="col-12 col-sm-6 col-md-6 col-lg-4 mb-3 d-flex order-3 order-sm-2 order-md-3 justify-content-around align-items-start">
+                <div class="col-12 col-sm-6 col-md-6 col-lg-4 m-auto mb-sm-3 m-lg-0 d-flex order-3 order-sm-2 order-md-3 justify-content-around align-items-start">
                     <a href="#" class="link-button btn btn-primary btn-md mt-4 font-weight-bold" data-toggle="modal" data-target="#modalLoginForm">Prijava</a>
                     <a href="#" class="link-button btn btn-primary btn-md ml-4 ml-sm-0 mt-4 font-weight-bold" data-toggle="modal" data-target="#modalRegisterForm">Registracija</a>
-                    <a id="bookmark-link" href="bookmark.html" class="mt-4 link-color h2 ml-4 ml-sm-0 mr-1"><i class="far fa-bookmark mr-1"></i><span id="bookmarkNumber" class="h4 ml-1"></span></a>
+                    <a id="bookmark-link" href="bookmark.html" class="mt-4 link-color h2 ml-4 ml-sm-0 mr-1"><i class="far fa-bookmark mr-1"></i><span id="bookmarkNumber" class="h4 ml-1"> </span></a>
                 </div>
             </div>
         </div>
@@ -135,7 +135,7 @@
             <div id="content" class="row">
                  <!-- SIDEBAR SA FILTERIMA -->
                 <div id="sidebar" class="px-2 p-0 m-0 col-sm-12 col-md-3 d-md-block px-md-3 bg-gray-dark border-right align-self-start border-bottom rounded border-color-yellow border-size-1">
-                    <div class="pt-2"> <!-- d-none d-md-block-->
+                    <div class="pt-4"> <!-- d-none d-md-block-->
                         <h2 class="mb-2 h6 text-uppercase text-pink d-block">Godina:</h2>
                         <!-- DROPDOWN LISTA SA GODINAMA -->
                             <div class="col-auto p-0">
@@ -161,7 +161,7 @@
     
                         </div>
                     </div>
-                    <div class="pt-3">
+                    <div class="pt-3 pb-2"> <!-- d-none d-md-block-->
                         <div class="d-flex flex-row justify-content-evenly">
                             <a href="autor.html" class="h3 link-color"><i class="fas fa-user-ninja"></i></a>
                             <a href="dokumentacija.pdf" class="h3 link-color" target="_blank"><i class="fas fa-archive" aria-hidden="true"></i></a>
@@ -212,7 +212,7 @@
     <script src="js/jquery-ui.js"></script>
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
-    <script src="js/main.min.js"></script>
+    <script src="js/main.js"></script>
     <!-- <script src="ks/proba.js"></script> -->
 </body>
 </html>
